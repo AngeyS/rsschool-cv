@@ -38,4 +38,4 @@ I only have educational experience
 * [https://www.w3schools.com/][w3schools]
 ===
 ## Languages
-English A1 but I practice every day for more than 30 minutes
+English A1 but I practice every day for more than 30 minutes.
